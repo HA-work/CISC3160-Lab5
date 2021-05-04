@@ -1,0 +1,9 @@
+*************************************************
+$50.0 = €44.0
+ to make €44.0 you will receive
+ the number of € 20 bills you would receive is 2 and that is equal to €40
+ the number of € 10 bills you would receive is 0 and that is equal to €0
+ the number of € 5 bills you would receive is 0 and that is equal to €0
+ the number of € 1 bills you would receive is 4 and that is equal to €4
+and the number of cents left over is 0.0
+*************************************************
